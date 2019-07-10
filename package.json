@@ -1,0 +1,11 @@
+{
+  "name": "redirector",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "ssh://git@github.com/awswakaran-tokyo/redirector.git",
+  "author": "HANATANI Takuma <mail@potato4d.me>",
+  "license": "MIT",
+  "devDependencies": {
+    "firebase-tools": "^7.0.2"
+  }
+}
